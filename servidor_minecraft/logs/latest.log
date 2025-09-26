@@ -520,3 +520,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'cartaddon:zoro_robe'
 [26Sep2025 01:25:13.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was shot by Skeleton
 [26Sep2025 01:25:21.594] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilxdk1 lost connection: Disconnected
 [26Sep2025 01:25:21.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 left the game
+[26Sep2025 01:30:42.646] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2deb5572
+[26Sep2025 01:30:42.659] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilxdk1[/127.251.208.206:46345] logged in with entity id 1007 at (2938.5, 115.0, -4870.5)
+[26Sep2025 01:30:42.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 joined the game
+[26Sep2025 01:34:17.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[26Sep2025 01:34:23.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by Marine Sniper
+[26Sep2025 01:35:04.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[26Sep2025 01:35:10.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by Marine Sniper
+[26Sep2025 01:35:43.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[26Sep2025 01:35:53.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was slain by Marine Sniper
+[26Sep2025 01:36:45.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2831, y=30, z=-4554} but found not block entity block Block{minecraft:granite} at location
+[26Sep2025 01:36:45.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2831, y=30, z=-4554}
+[26Sep2025 01:36:45.405] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2837, y=24, z=-4558} but found not block entity block Block{minecraft:diorite} at location
+[26Sep2025 01:36:45.405] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=2837, y=24, z=-4558}
+[26Sep2025 01:36:45.405] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2839, y=25, z=-4555} but found not block entity block Block{minecraft:stone} at location
+[26Sep2025 01:36:45.405] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2839, y=25, z=-4555}

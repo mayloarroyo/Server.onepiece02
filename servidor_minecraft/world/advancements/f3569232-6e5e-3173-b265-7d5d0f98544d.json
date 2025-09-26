@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/misc/wanted_poster_upgrade": {
+    "criteria": {
+      "has_poster": "2025-09-26 01:32:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-09-26 01:19:27 +0000"
@@ -41,17 +47,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-09-26 01:23:57 +0000"
-    },
-    "done": false
-  },
   "obscure_api:recipes/obscure_book": {
     "criteria": {
       "has_item": "2025-09-26 01:23:15 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-09-26 01:23:57 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
