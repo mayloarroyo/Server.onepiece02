@@ -507,3 +507,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'cartaddon:zoro_robe'
 [26Sep2025 01:12:25.172] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [ironchest:network] rejected their client side version number
 [26Sep2025 01:12:25.172] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [26Sep2025 01:12:25.186] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5ee97695[id=<null>,name=Camilxdk1,properties={},legacy=false] (/127.251.208.206:58807) lost connection: Connection closed - mismatched mod channel list
+[26Sep2025 01:19:27.513] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@de6efde
+[26Sep2025 01:19:27.537] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilxdk1[/127.251.208.206:47985] logged in with entity id 59 at (2946.5, 120.0, -4885.5)
+[26Sep2025 01:19:27.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 joined the game
+[26Sep2025 01:19:27.859] [Server thread/INFO] [structurize/]: New Server UUID 5a446744-585d-408a-89c8-cceefa5daf0c
+[26Sep2025 01:19:27.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Ice and Fire]
+[26Sep2025 01:19:35.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7837ms or 156 ticks behind
+[26Sep2025 01:20:49.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[26Sep2025 01:20:55.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 burned to death
+[26Sep2025 01:23:57.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Monster Hunter]
+[26Sep2025 01:25:03.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[26Sep2025 01:25:13.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was shot by Skeleton
+[26Sep2025 01:25:21.594] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilxdk1 lost connection: Disconnected
+[26Sep2025 01:25:21.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 left the game
