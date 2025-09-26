@@ -1,0 +1,7 @@
+#TIMER_BASED: The fruit will be deleted after a certain amount of time
+#Allowed Values: ON_CHUNK_UNLOAD, TIMER_BASED
+fruitDeleteMode = "ON_CHUNK_UNLOAD"
+#The amount of time in seconds before the fruit is deleted. Default value is 300 seconds (5 minutes) which is the same as the default item despawn time.
+#Range: > 0
+fruitDeleteTimer = 300
+

@@ -1,0 +1,52 @@
+
+[Abilities]
+	#Uses leg abilities if you are Black leg user
+	#Default: true
+	"Black Leg Abilities" = true
+	#Abilities from video games, films, ect.
+	#Default: false
+	"Non-Canon Abilities" = false
+
+[Balance]
+
+	[Balance.Gatling]
+		#Regulates length of gatling's cooldown
+		"Gatling cooldown equation" = "multiply(n(20), max(n(3), divide(multiply(length(), dif()), n(200))))"
+		#Regulates length of gatling
+		#Old function: multiply(n(3), add(n(1), sqrt(divide(doriki(), multiply(n(100), dif())))))
+		"Gatling length equation" = "divide(n(10), dif())"
+
+	[Balance.G2]
+		#Regulates length of second gear
+		"G2 length equation" = "multiply(doriki(), n(0.02f))"
+		#Regulates length of second gear's cooldown
+		"G2 cooldown equation" = "multiply(n(20), add(n(1), sqrt(length())))"
+
+	[Balance.G3]
+		#Regulates length of third gear
+		"G3 length equation" = "multiply(doriki(), n(0.01f))"
+		#Regulates length of third gear's cooldown
+		"G3 cooldown equation" = "multiply(n(20), add(n(2), sqrt(multiply(n(2), length()))))"
+
+	[Balance.Fusen]
+		#Regulates length of fusen
+		"Fusen length equation" = "add(multiply(doriki(), n(0.1f)), n(15))"
+		#Regulates length of fusen's cooldown
+		"Fusen cooldown equation" = "length()"
+
+	[Balance.G4]
+		#Regulates length of fourth gear's cooldown
+		"G4 cooldown equation" = "add(n(1), divide(effect(), n(60)), multiply(sqrt(divide(length(), n(20))), n(20)))"
+		#Regulates length of fourth gear
+		"G4 length equation" = "multiply(doriki(), n(0.005f))"
+		#Regulates length of fourth gear's cooldown if bonus time was activated
+		"G4 bonus cooldown equation" = "add(n(1), divide(effect(), n(60)), length())"
+		#Regulates length of fourth gear's cooldown's effects (weakness, hunger, slowness)
+		"G4 effects equation" = "subtract(n(600), totalHakiXp())"
+
+	[Balance.G5]
+		#Regulates length of fifth gear
+		"G5 length equation" = "multiply(doriki(), n(0.003f))"
+		#Regulates length of fifth gear's cooldown
+		"G5 cooldown equation" = "length()"
+

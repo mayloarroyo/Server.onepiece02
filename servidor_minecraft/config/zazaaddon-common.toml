@@ -1,0 +1,51 @@
+
+[weapons]
+	#Master kill switch for non-trident weapons.
+	enableAllWeapons = true
+	enableEnmabb = true
+	enableAcebb = true
+	enableWadobb = true
+	enableShusuibb = true
+	enableGryphonbb = true
+	enableMurabb = true
+	enableNidaibb = true
+	enableAmebb = true
+
+[abilities]
+
+	[abilities.haki]
+		#Soul-Damaging Haki unlock mode:
+		#  LOCKED - cannot be unlocked
+		#  GATED  - requires 7000 Doriki & 90 Busoshoku Haki EXP
+		#Allowed Values: LOCKED, GATED
+		soulHakiUnlockMode = "GATED"
+		#Precise Haki unlock mode:
+		#  LOCKED - cannot be unlocked
+		#  GATED  - requires Busoshoku Emission unlocked + 8000 Doriki & 95 Busoshoku Haki EXP
+		#Allowed Values: LOCKED, GATED
+		preciseHakiUnlockMode = "GATED"
+
+[bossSpawns]
+	#Enable rotating boss spawns globally (true/false).
+	enabled = true
+	#Minutes between boss spawn attempts (>= 1).
+	#Range: 1 ~ 10000
+	minutesBetweenAttempts = 20
+
+[combat]
+	#Combat tag duration in seconds (0 disables tagging without turning system off).
+	#Range: 0 ~ 3600
+	durationSeconds = 30
+	#Case-insensitive, prefix-based matches of commands blocked while in combat.
+	#Recommended to include the leading '/' for clarity.
+	blockedCommandPrefixes = ["/teleport", "/tpa", "/tpaccept", "/tpo", "/tpahere", "/fly", "/gamemode", "//wand", "/spawn", "/home", "/crews home", "/crews", "/back", "/warp"]
+	#Enable the combat tagging system (timer, blocked commands, logout punish).
+	#Set to false to completely disable all combat-tag behavior.
+	enabled = true
+
+[drops]
+	#Default chance (0..100) that a player's item will NOT drop on death if the item has no specific no-drop value.
+	#50 keeps the previous default behavior.
+	#Range: 0 ~ 100
+	defaultNoDropPercent = 50
+
