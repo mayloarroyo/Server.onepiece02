@@ -3638,3 +3638,39 @@ java.lang.NullPointerException: null
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [27Sep2025 15:34:15.430] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Tetsu Boshi at tick 8030
 [27Sep2025 15:34:17.378] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 8069
+[27Sep2025 15:37:00.422] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Sep2025 15:37:00.440] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Sep2025 15:38:34.581] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Electrical Shower at tick 6504
+[27Sep2025 15:38:36.135] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Commander stopped Perception Blitz at tick 6535
+[27Sep2025 15:38:37.432] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Commander stopped Perception Blitz at tick 6561
+[27Sep2025 15:38:37.586] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Commander stopped Smashing Fist at tick 6564
+[27Sep2025 15:38:37.586] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Commander stopped Busoshoku Haki: Hardening at tick 6564
+[27Sep2025 15:38:40.532] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Commander stopped Vicious Roar at tick 6623
+[27Sep2025 15:41:27.672] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:42:00.397] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Sep2025 15:42:00.414] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Sep2025 15:42:56.282] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 18432
+[27Sep2025 15:43:31.128] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Yakkodori at tick 19144
+[27Sep2025 15:43:31.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 15:43:43.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by Marine Brute
+[27Sep2025 15:43:44.946] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:43:44.948] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:43:45.187] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:43:45.188] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:43:45.439] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:43:45.441] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:43:45.695] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:43:45.939] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:01.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 15:44:08.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was slain by Marine Grunt
+[27Sep2025 15:44:09.944] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:09.946] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:10.189] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:10.191] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:10.436] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:10.437] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:10.686] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:44:10.944] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:45:53.322] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:45:55.423] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:45:57.172] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase

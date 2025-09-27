@@ -869,3 +869,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 15:43:31.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 15:43:43.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by Marine Brute
+[27Sep2025 15:44:01.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 15:44:08.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was slain by Marine Grunt
