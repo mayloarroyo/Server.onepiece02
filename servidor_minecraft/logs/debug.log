@@ -3657,3 +3657,294 @@ java.lang.NullPointerException: null
 [27Sep2025 16:08:32.075] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 8805
 [27Sep2025 16:08:35.122] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 8866
 [27Sep2025 16:08:38.173] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 8927
+[27Sep2025 16:08:41.225] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 8988
+[27Sep2025 16:08:57.322] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Santoryu Trainer stopped Asura: Blades Drawn Dead Man's Game at tick 8692
+[27Sep2025 16:08:57.322] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Santoryu Trainer stopped Hyakuhachi Pound Ho at tick 8692
+[27Sep2025 16:08:57.374] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Santoryu Trainer stopped Busoshoku Haki: Hardening at tick 8693
+[27Sep2025 16:08:59.073] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Santoryu Trainer stopped Oni Giri at tick 8727
+[27Sep2025 16:09:06.724] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 16:09:06.823] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Water Phase
+[27Sep2025 16:09:45.077] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Sep2025 16:09:45.129] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Sep2025 16:09:45.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[27Sep2025 16:09:55.073] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 10414
+[27Sep2025 16:09:55.073] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 10414
+[27Sep2025 16:09:58.122] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 10475
+[27Sep2025 16:10:01.173] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 10536
+[27Sep2025 16:10:04.223] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 10597
+[27Sep2025 16:10:07.272] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 10658
+[27Sep2025 16:11:26.104] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=2905, y=13, z=-3940}
+[27Sep2025 16:11:26.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2796, y=21, z=-3980} but found not block entity block Block{minecraft:granite} at location
+[27Sep2025 16:11:26.149] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2796, y=21, z=-3980}
+[27Sep2025 16:11:26.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2814, y=26, z=-3975} but found not block entity block Block{minecraft:granite} at location
+[27Sep2025 16:11:26.195] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2814, y=26, z=-3975}
+[27Sep2025 16:11:26.195] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2812, y=18, z=-3979} but found not block entity block Block{minecraft:stone} at location
+[27Sep2025 16:11:26.195] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2812, y=18, z=-3979}
+[27Sep2025 16:11:26.195] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2822, y=26, z=-3983} but found not block entity block Block{minecraft:andesite} at location
+[27Sep2025 16:11:26.196] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=2822, y=26, z=-3983}
+[27Sep2025 16:11:34.419] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 16:11:47.879] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Busoshoku Haki: Hardening at tick 270
+[27Sep2025 16:11:49.280] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Electrical Shower at tick 298
+[27Sep2025 16:11:52.440] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Busoshoku Haki: Hardening at tick 361
+[27Sep2025 16:11:52.931] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Electrical Missile at tick 371
+[27Sep2025 16:11:56.534] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Electrical Missile at tick 443
+[27Sep2025 16:11:59.582] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Busoshoku Haki: Hardening at tick 504
+[27Sep2025 16:12:00.082] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Electrical Missile at tick 514
+[27Sep2025 16:12:00.330] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2850, l='ServerLevel[world]', x=2696.70, y=65.00, z=-4029.30] died, message: 'Villager suffocated in a wall'
+[27Sep2025 16:12:02.631] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Electrical Shower at tick 565
+[27Sep2025 16:12:03.827] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 12989
+[27Sep2025 16:12:03.827] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 12989
+[27Sep2025 16:12:03.889] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Busoshoku Haki: Hardening at tick 590
+[27Sep2025 16:12:06.882] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 13050
+[27Sep2025 16:12:08.970] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 16:12:09.924] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 13111
+[27Sep2025 16:12:12.978] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 13172
+[27Sep2025 16:12:14.827] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/429, l='ServerLevel[world]', x=2692.30, y=68.00, z=-4075.32] died, message: 'Villager was slain by Pirate Grunt'
+[27Sep2025 16:12:20.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Suit Up]
+[27Sep2025 16:12:41.316] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=2800, y=13, z=-3850}
+[27Sep2025 16:12:41.417] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=2651, y=14, z=-3850}
+[27Sep2025 16:12:50.587] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Charged Cleave at tick 45
+[27Sep2025 16:13:20.839] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Charged Cleave at tick 239
+[27Sep2025 16:14:06.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Clash of the Titans]
+[27Sep2025 16:14:25.676] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1161, l='ServerLevel[world]', x=2704.43, y=65.00, z=-3981.38] died, message: 'Villager was slain by Pirate Grunt'
+[27Sep2025 16:14:45.708] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Sep2025 16:14:45.723] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Sep2025 16:15:10.393] [Server thread/INFO] [mineminenomi/]: Camilxdk1 started LUFFY challenge.
+[27Sep2025 16:15:10.442] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 48ms
+[27Sep2025 16:15:10.645] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/1153, l='ServerLevel[world]', x=2664.48, y=66.00, z=-4032.48] died, message: 'Farmer was killed by Bandit Grunt'
+[27Sep2025 16:15:20.811] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 508520 blocks
+[27Sep2025 16:15:20.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10178ms or 203 ticks behind
+[27Sep2025 16:15:25.540] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 4.75s
+[27Sep2025 16:15:33.478] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Luffy's phase to: First phase
+[27Sep2025 16:15:33.479] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: java.lang.NullPointerException
+[27Sep2025 16:15:33.479] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.api.abilities.AbilityCoreUnlockWrapper.save(AbilityCoreUnlockWrapper.java:48)
+[27Sep2025 16:15:33.479] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1.writeNBT(AbilityDataCapability.java:40)
+[27Sep2025 16:15:33.479] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1.writeNBT(AbilityDataCapability.java:33)
+[27Sep2025 16:15:33.480] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.packets.server.SSyncAbilityDataPacket.<init>(SSyncAbilityDataPacket.java:27)
+[27Sep2025 16:15:33.480] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.events.SyncEvents.onPlayerStartsTracking(SyncEvents.java:125)
+[27Sep2025 16:15:33.480] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.ASMEventHandler_585_SyncEvents_onPlayerStartsTracking_StartTracking.invoke(.dynamic)
+[27Sep2025 16:15:33.480] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[27Sep2025 16:15:33.480] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[27Sep2025 16:15:33.480] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[27Sep2025 16:15:33.480] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.event.ForgeEventFactory.onStartEntityTracking(ForgeEventFactory.java:317)
+[27Sep2025 16:15:33.481] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.TrackedEntity.func_219455_b(TrackedEntity.java:196)
+[27Sep2025 16:15:33.481] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.server.ChunkManager$EntityTracker.func_219400_b(ChunkManager.java:1160)
+[27Sep2025 16:15:33.481] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.server.ChunkManager$EntityTracker.func_219397_a(ChunkManager.java:1189)
+[27Sep2025 16:15:33.481] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.server.ChunkManager.func_219210_a(ChunkManager.java:963)
+[27Sep2025 16:15:33.481] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.server.ServerChunkProvider.func_217230_c(ServerChunkProvider.java:458)
+[27Sep2025 16:15:33.481] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.server.ServerWorld.func_217465_m(ServerWorld.java:936)
+[27Sep2025 16:15:33.481] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.server.ServerWorld.func_72838_d(ServerWorld.java:820)
+[27Sep2025 16:15:33.482] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.world.server.ServerWorld.func_217376_c(ServerWorld.java:755)
+[27Sep2025 16:15:33.482] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.api.challenges.InProgressChallenge.spawnEnemies(InProgressChallenge.java:520)
+[27Sep2025 16:15:33.482] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.api.challenges.InProgressChallenge.executeSpawnPhase(InProgressChallenge.java:279)
+[27Sep2025 16:15:33.482] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.api.challenges.InProgressChallenge.tick(InProgressChallenge.java:164)
+[27Sep2025 16:15:33.482] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.data.world.ChallengesWorldData.tick(ChallengesWorldData.java:236)
+[27Sep2025 16:15:33.482] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at xyz.pixelatedw.mineminenomi.events.WorldEvents.onServerTick(WorldEvents.java:106)
+[27Sep2025 16:15:33.482] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.ASMEventHandler_439_WorldEvents_onServerTick_WorldTickEvent.invoke(.dynamic)
+[27Sep2025 16:15:33.483] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[27Sep2025 16:15:33.483] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[27Sep2025 16:15:33.483] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[27Sep2025 16:15:33.483] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPostWorldTick(BasicEventHooks.java:86)
+[27Sep2025 16:15:33.483] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:857)
+[27Sep2025 16:15:33.483] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[27Sep2025 16:15:33.483] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[27Sep2025 16:15:33.484] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[27Sep2025 16:15:33.484] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[27Sep2025 16:15:33.484] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.data.entity.ability.AbilityDataCapability$1:writeNBT:95]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[27Sep2025 16:15:40.622] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Pistol at tick 185
+[27Sep2025 16:15:40.623] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Gatling at tick 185
+[27Sep2025 16:15:42.623] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Bazooka at tick 225
+[27Sep2025 16:15:44.672] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Pistol at tick 266
+[27Sep2025 16:15:46.720] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Pistol at tick 307
+[27Sep2025 16:15:48.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 16:15:48.070] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Gatling at tick 334
+[27Sep2025 16:15:55.820] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Pistol at tick 489
+[27Sep2025 16:15:55.820] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Luffy stopped Gomu Gomu no Gatling at tick 489
+[27Sep2025 16:15:57.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by Luffy
+[27Sep2025 16:15:59.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[27Sep2025 16:15:59.890] [Server thread/INFO] [mineminenomi/]: Camilxdk1's challenge stopped.
+[27Sep2025 16:15:59.910] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5557, l='ServerLevel[world]', x=2703.00, y=71.00, z=-4089.00]
+[27Sep2025 16:16:00.289] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 16:16:00.403] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 16:16:01.309] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 16:16:38.238] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Busoshoku Haki: Hardening at tick 737
+[27Sep2025 16:16:39.334] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Revolutionary Army Officer stopped Electrical Shower at tick 759
+[27Sep2025 16:16:40.190] [Server thread/INFO] [mineminenomi/]: Camilxdk1 started S_SNAKE challenge.
+[27Sep2025 16:16:40.190] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[27Sep2025 16:16:42.181] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 1.743s
+[27Sep2025 16:16:44.115] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 0 blocks
+[27Sep2025 16:16:44.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[27Sep2025 16:16:44.335] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.25s
+[27Sep2025 16:16:44.598] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/5567, l='ServerLevel[world]', x=2698.60, y=68.00, z=-4113.16] died, message: 'Villager was slain by Pirate Grunt'
+[27Sep2025 16:16:50.093] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched S-Snake's phase to: First Phase
+[27Sep2025 16:16:59.422] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 188
+[27Sep2025 16:17:00.123] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Flaming Slash at tick 202
+[27Sep2025 16:17:02.423] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Kami-E at tick 248
+[27Sep2025 16:17:02.622] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 252
+[27Sep2025 16:17:03.173] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 263
+[27Sep2025 16:17:03.323] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Slave Arrow at tick 266
+[27Sep2025 16:17:03.722] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 274
+[27Sep2025 16:17:04.272] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 285
+[27Sep2025 16:17:10.168] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Flaming Slash at tick 403
+[27Sep2025 16:17:10.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 16:17:10.470] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Busoshoku Haki: Full Body Hardening at tick 409
+[27Sep2025 16:17:22.569] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Busoshoku Haki: Full Body Hardening at tick 651
+[27Sep2025 16:17:22.569] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Flaming Slash at tick 651
+[27Sep2025 16:17:22.569] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Slave Arrow at tick 651
+[27Sep2025 16:17:22.569] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Mero Mero Mellow at tick 651
+[27Sep2025 16:17:23.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by S-Snake
+[27Sep2025 16:17:24.535] [Server thread/INFO] [mineminenomi/]: Camilxdk1's challenge stopped.
+[27Sep2025 16:17:25.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Eyes'/6224, l='ServerLevel[world]', x=2703.47, y=71.00, z=-4089.88]
+[27Sep2025 16:17:25.361] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/6249, l='ServerLevel[world]', x=2703.21, y=71.87, z=-4089.09]
+[27Sep2025 16:17:25.362] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Heart'/6223, l='ServerLevel[world]', x=2703.11, y=71.00, z=-4089.88]
+[27Sep2025 16:17:25.705] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 16:17:25.752] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 16:17:26.733] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 16:17:26.735] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 16:17:49.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilxdk1: +200 doriki for Camilxdk1]
+[27Sep2025 16:18:19.315] [Server thread/INFO] [mineminenomi/]: Camilxdk1 started S_SNAKE challenge.
+[27Sep2025 16:18:19.316] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[27Sep2025 16:18:20.795] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: EMERGENCY CLEAR TIME: 1.262s
+[27Sep2025 16:18:22.752] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 0 blocks
+[27Sep2025 16:18:22.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[27Sep2025 16:18:22.942] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.25s
+[27Sep2025 16:18:28.824] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched S-Snake's phase to: First Phase
+[27Sep2025 16:18:38.022] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 185
+[27Sep2025 16:18:38.873] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Flaming Slash at tick 202
+[27Sep2025 16:18:41.022] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Kami-E at tick 245
+[27Sep2025 16:18:41.223] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 249
+[27Sep2025 16:18:41.772] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 260
+[27Sep2025 16:18:41.923] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Slave Arrow at tick 263
+[27Sep2025 16:18:42.322] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 271
+[27Sep2025 16:18:42.871] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: S-Snake stopped Soru at tick 282

@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 16:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-09-27 14:58:42 +0000"
@@ -331,6 +337,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-09-27 16:14:06 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/weapons/umbrella": {
     "criteria": {
       "has_stick": "2025-09-26 01:55:49 +0000"
@@ -382,6 +394,12 @@
   "mineminenomi:recipes/misc/handcuffs": {
     "criteria": {
       "has_iron": "2025-09-27 14:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-27 16:13:33 +0000"
     },
     "done": true
   },
@@ -511,6 +529,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-27 16:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-27 16:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-09-26 01:56:40 +0000"
@@ -595,9 +625,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-27 16:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-09-26 01:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 16:13:33 +0000"
     },
     "done": true
   },
@@ -717,6 +759,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-09-27 16:13:29 +0000",
       "minecraft:spider": "2025-09-26 02:01:38 +0000",
       "minecraft:zombie": "2025-09-26 01:23:57 +0000"
     },
@@ -824,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-27 16:13:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-09-26 01:55:49 +0000"
@@ -839,6 +888,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-09-27 15:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-27 16:13:33 +0000"
     },
     "done": true
   },
@@ -1256,8 +1311,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-27 16:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-09-27 16:11:42 +0000",
+      "minecraft:river": "2025-09-27 16:12:42 +0000",
       "minecraft:plains": "2025-09-26 01:19:27 +0000"
     },
     "done": false
@@ -1319,6 +1382,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-09-26 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-27 16:13:33 +0000"
     },
     "done": true
   },
