@@ -1,203 +1,202 @@
-[27Sep2025 15:26:00.361] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[27Sep2025 15:26:00.364] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.28 by Ubuntu
-[27Sep2025 15:26:00.847] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[27Sep2025 15:26:00.918] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Server.onepiece02/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[27Sep2025 15:26:01.613] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[27Sep2025 15:26:01.710] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[27Sep2025 15:26:01.718] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[27Sep2025 15:26:01.725] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[27Sep2025 15:26:01.731] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[27Sep2025 15:26:01.737] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[27Sep2025 15:26:01.744] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[27Sep2025 15:26:03.038] [main/ERROR] [mixin/]: Mixin config fruit_progression.mixin.json does not specify "minVersion" property
-[27Sep2025 15:26:03.135] [main/ERROR] [mixin/]: Mixin config hito_hito_no_mi_nika.mixin.json does not specify "minVersion" property
-[27Sep2025 15:26:03.207] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[27Sep2025 15:26:03.211] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[27Sep2025 15:26:03.242] [main/WARN] [mixin/]: Reference map 'CartAddon.refmap.json' for cartaddon.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Sep2025 15:26:03.244] [main/WARN] [mixin/]: Reference map 'MineMineNoMiAddonTemplate.refmap.json' for eopaddon.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Sep2025 15:26:03.984] [main/WARN] [mixin/]: Error loading class: org/valkyrienskies/core/util/assertions/stages/TickStageEnforcerImpl (java.lang.ClassNotFoundException: null)
-[27Sep2025 15:26:03.985] [main/WARN] [mixin/]: @Mixin target org.valkyrienskies.core.util.assertions.stages.TickStageEnforcerImpl was not found mine-mine-no-mi.mixins.json:valkyrienskies.TickStageEnforcerImplMixin
-[27Sep2025 15:26:12.433] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.438] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.441] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.441] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.649] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `walljump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.650] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `doublejump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.650] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `speedboost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.828] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:12.829] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:13.913] [modloading-worker-2/WARN] [mixin/]: @Final field GASU_GASU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.921] [modloading-worker-2/WARN] [mixin/]: @Final field YUKI_YUKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.921] [modloading-worker-2/WARN] [mixin/]: @Final field HIE_HIE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.921] [modloading-worker-2/WARN] [mixin/]: @Final field JIKI_JIKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.921] [modloading-worker-2/WARN] [mixin/]: @Final field MOKU_MOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field PIKA_PIKA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field HITO_HITO_NO_MI_DAIBUTSU:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field KIRA_KIRA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field DOKU_DOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field GURA_GURA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field MAGU_MAGU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field TORI_TORI_NO_MI_PHOENIX:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.922] [modloading-worker-2/WARN] [mixin/]: @Final field GORO_GORO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.923] [modloading-worker-2/WARN] [mixin/]: @Final field GOE_GOE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.923] [modloading-worker-2/WARN] [mixin/]: @Final field CHIYU_CHIYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.923] [modloading-worker-2/WARN] [mixin/]: @Final field NIKYU_NIKYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.923] [modloading-worker-2/WARN] [mixin/]: @Final field SUNA_SUNA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.927] [modloading-worker-2/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_PTERANODON:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.928] [modloading-worker-2/WARN] [mixin/]: @Final field MINI_MINI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.930] [modloading-worker-2/WARN] [mixin/]: @Final field OTO_OTO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.930] [modloading-worker-2/WARN] [mixin/]: @Final field SARA_SARA_NO_MI_AXOLOTL:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.930] [modloading-worker-2/WARN] [mixin/]: @Final field OPE_OPE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.931] [modloading-worker-2/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_BRACHIOSAURUS:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[27Sep2025 15:26:13.931] [modloading-worker-2/WARN] [mixin/]: @Final field GOMU_GOMU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in hito_hito_no_mi_nika.mixin.json:ModAbilitiesMixin should be final
-[27Sep2025 15:26:14.006] [modloading-worker-1/INFO] [TerraForged/]: Environment: dev=false, stable=true, vanilla=false
-[27Sep2025 15:26:14.010] [modloading-worker-1/INFO] [TerraForged/]: Running on minimum supported core-count. Performance may not be optimal!
-[27Sep2025 15:26:14.015] [modloading-worker-1/INFO] [TerraForged/]: Signature:  7b:73:d0:a2:c3:40:13:84:35:4f:c9:0e:2b:85:8c:08:ea:3c:3c:eb:f1:98:8b:5b:6e:ca:8a:a0:9a:cf:12:b3
-[27Sep2025 15:26:14.054] [modloading-worker-1/INFO] [TerraForged/]: Trust Data: CN=TerraForged self-signed
-[27Sep2025 15:26:14.055] [modloading-worker-1/INFO] [TerraForged/]: Initializing tags
-[27Sep2025 15:26:14.355] [modloading-worker-3/INFO] [zazaaddon/]: ZaZaAddon constructed
-[27Sep2025 15:26:15.657] [modloading-worker-1/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon constructed
-[27Sep2025 15:26:15.669] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[27Sep2025 15:26:15.669] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[27Sep2025 15:26:15.858] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
-[27Sep2025 15:26:17.304] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.change_character
-[27Sep2025 15:26:17.313] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
-[27Sep2025 15:26:17.314] [modloading-worker-2/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
-[27Sep2025 15:26:21.324] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering imu_trident enabled=true
-[27Sep2025 15:26:21.325] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering enmabb enabled=true
-[27Sep2025 15:26:21.326] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering shusuibb enabled=true
-[27Sep2025 15:26:21.326] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering amebb enabled=true
-[27Sep2025 15:26:21.326] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering acebb enabled=true
-[27Sep2025 15:26:21.327] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering gryphonbb enabled=true
-[27Sep2025 15:26:21.327] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering murabb enabled=true
-[27Sep2025 15:26:21.327] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering nidaibb enabled=true
-[27Sep2025 15:26:21.327] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering wadobb enabled=true
-[27Sep2025 15:26:21.328] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering syringered enabled=true
-[27Sep2025 15:26:21.328] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering syringegreen enabled=true
-[27Sep2025 15:26:21.328] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering hakifistred enabled=true
-[27Sep2025 15:26:22.162] [main/INFO] [TerraForged/]: Registering level types
-[27Sep2025 15:26:24.078] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `bubbly_coral`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.081] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `animal_lookout`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.081] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `candle_lock`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.082] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `lovestruck`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.082] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `negative`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.082] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `chiyu_hormone`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.083] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `frostbite`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.083] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `frozen`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.084] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `tension_hormone`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.084] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ganmen_seicho_hormone`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.084] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `drunk`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.085] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ability_off`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.085] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `door_head`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.086] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `dizzy`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.086] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `movement_blocked`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.089] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `unconscious`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.090] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `washed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.090] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `sticky`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.090] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `black_box`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.091] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `guarding`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.092] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `physical_guarding`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.092] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `candy_stuck`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.092] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `paralysis`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.092] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `haki_overuse`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.093] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `smoke`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.093] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `reduced_fall`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.094] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `handcuffed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.095] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `handcuffed_kairoseki`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.095] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `handcuffed_explosive`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.098] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `bind`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.098] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `no_hands`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.101] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `fatigue`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.102] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `noro_slowness`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.102] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `guarding_with_movement`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.102] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `bleeding`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.103] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `hana`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.103] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `silent`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.104] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `saboten_boshi`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.104] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `oil_covered`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.107] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `dehydration`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.107] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `genocide_raid`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.108] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `doku_poison`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.108] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `punk_cross`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.108] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `vanish`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.111] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `suke_invisibility`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.111] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `doa_invisibility`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.111] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `seismic_bubble`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.112] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `in_event`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.112] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `antidote`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.112] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `hunger`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.113] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `mummy`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.113] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `mummy_antibody`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.114] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ice_oni`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.117] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ice_oni_antibody`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.117] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `scaling_frostbite`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.118] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `custom_lighting`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.118] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `chiyupopo`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.118] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `tokudai_candle_poison`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.119] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `cyclone_tempo`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.120] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `heat_egg_tempo`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.120] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `kairoseki_weakness`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.120] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `water_weakness`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.121] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `play_dead`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.122] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `challenge_failed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.125] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `caught_in_net`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.126] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `caught_in_kairoseki_net`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.128] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `carrying`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.129] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `wet`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.129] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `swim_slowdown`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.129] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `grabbed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.129] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `anti_knockback`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.130] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `launched`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.130] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `fragile`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.130] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `impact_frame`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.130] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `zaza_unconscious`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.131] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `zaza_bleed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.131] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `soul_damage`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.136] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `wifi_stun`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.136] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `negative_vitals`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.136] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `dead`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
-[27Sep2025 15:26:24.324] [main/INFO] [TerraForged/]: Registering decorators
-[27Sep2025 15:26:24.339] [main/INFO] [TerraForged/]: Registering features
-[27Sep2025 15:26:24.992] [modloading-worker-2/INFO] [net.isaiah.zazaaddon.setup.ZaZaSetup/]: ZaZaAddon common setup complete
-[27Sep2025 15:26:25.109] [modloading-worker-0/INFO] [TerraForged/]: Common setup
-[27Sep2025 15:26:25.569] [modloading-worker-2/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon common setup complete
-[27Sep2025 15:26:25.594] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@6e863469' to registry
-[27Sep2025 15:26:25.597] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7f4ae871' to registry
-[27Sep2025 15:26:25.597] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@718212ef' to registry
-[27Sep2025 15:26:25.597] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@461e0652' to registry
-[27Sep2025 15:26:25.598] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@747795d7' to registry
-[27Sep2025 15:26:25.598] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@6e863469' to registry
-[27Sep2025 15:26:25.598] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7f4ae871' to registry
-[27Sep2025 15:26:25.598] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@718212ef' to registry
-[27Sep2025 15:26:25.598] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@461e0652' to registry
-[27Sep2025 15:26:25.600] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@747795d7' to registry
-[27Sep2025 15:26:25.600] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@6e863469' to registry
-[27Sep2025 15:26:25.600] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7f4ae871' to registry
-[27Sep2025 15:26:25.600] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@718212ef' to registry
-[27Sep2025 15:26:25.600] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@461e0652' to registry
-[27Sep2025 15:26:25.600] [modloading-worker-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@747795d7' to registry
-[27Sep2025 15:26:25.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[27Sep2025 15:26:25.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: v1.10 Target: v1.10.0.1
-[27Sep2025 15:26:25.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[27Sep2025 15:26:26.003] [main/INFO] [zazaaddon/]: ZaZaSetup: boss spawn placements registered (natural spawns remain disabled)
-[27Sep2025 15:26:26.065] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[27Sep2025 15:58:39.416] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[27Sep2025 15:58:39.418] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.28 by Ubuntu
+[27Sep2025 15:58:39.875] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[27Sep2025 15:58:39.945] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Server.onepiece02/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[27Sep2025 15:58:40.641] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[27Sep2025 15:58:40.744] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[27Sep2025 15:58:40.752] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[27Sep2025 15:58:40.761] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[27Sep2025 15:58:40.773] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[27Sep2025 15:58:40.779] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[27Sep2025 15:58:40.786] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[27Sep2025 15:58:42.141] [main/ERROR] [mixin/]: Mixin config fruit_progression.mixin.json does not specify "minVersion" property
+[27Sep2025 15:58:42.222] [main/ERROR] [mixin/]: Mixin config hito_hito_no_mi_nika.mixin.json does not specify "minVersion" property
+[27Sep2025 15:58:42.289] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[27Sep2025 15:58:42.294] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[27Sep2025 15:58:42.331] [main/WARN] [mixin/]: Reference map 'CartAddon.refmap.json' for cartaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Sep2025 15:58:42.333] [main/WARN] [mixin/]: Reference map 'MineMineNoMiAddonTemplate.refmap.json' for eopaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Sep2025 15:58:43.203] [main/WARN] [mixin/]: Error loading class: org/valkyrienskies/core/util/assertions/stages/TickStageEnforcerImpl (java.lang.ClassNotFoundException: null)
+[27Sep2025 15:58:43.203] [main/WARN] [mixin/]: @Mixin target org.valkyrienskies.core.util.assertions.stages.TickStageEnforcerImpl was not found mine-mine-no-mi.mixins.json:valkyrienskies.TickStageEnforcerImplMixin
+[27Sep2025 15:58:51.508] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.514] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.515] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.519] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.781] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `walljump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.789] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `doublejump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.790] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `speedboost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.898] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:51.899] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:58:53.166] [modloading-worker-1/INFO] [TerraForged/]: Environment: dev=false, stable=true, vanilla=false
+[27Sep2025 15:58:53.185] [modloading-worker-1/INFO] [TerraForged/]: Running on minimum supported core-count. Performance may not be optimal!
+[27Sep2025 15:58:53.187] [modloading-worker-1/INFO] [TerraForged/]: Signature:  7b:73:d0:a2:c3:40:13:84:35:4f:c9:0e:2b:85:8c:08:ea:3c:3c:eb:f1:98:8b:5b:6e:ca:8a:a0:9a:cf:12:b3
+[27Sep2025 15:58:53.220] [modloading-worker-1/INFO] [TerraForged/]: Trust Data: CN=TerraForged self-signed
+[27Sep2025 15:58:53.224] [modloading-worker-0/WARN] [mixin/]: @Final field GASU_GASU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.227] [modloading-worker-0/WARN] [mixin/]: @Final field YUKI_YUKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.228] [modloading-worker-0/WARN] [mixin/]: @Final field HIE_HIE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.229] [modloading-worker-0/WARN] [mixin/]: @Final field JIKI_JIKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.229] [modloading-worker-0/WARN] [mixin/]: @Final field MOKU_MOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.229] [modloading-worker-0/WARN] [mixin/]: @Final field PIKA_PIKA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.230] [modloading-worker-0/WARN] [mixin/]: @Final field HITO_HITO_NO_MI_DAIBUTSU:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.231] [modloading-worker-0/WARN] [mixin/]: @Final field KIRA_KIRA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.231] [modloading-worker-0/WARN] [mixin/]: @Final field DOKU_DOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.231] [modloading-worker-0/WARN] [mixin/]: @Final field GURA_GURA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.232] [modloading-worker-0/WARN] [mixin/]: @Final field MAGU_MAGU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.232] [modloading-worker-0/WARN] [mixin/]: @Final field TORI_TORI_NO_MI_PHOENIX:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.233] [modloading-worker-0/WARN] [mixin/]: @Final field GORO_GORO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.234] [modloading-worker-0/WARN] [mixin/]: @Final field GOE_GOE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.235] [modloading-worker-0/WARN] [mixin/]: @Final field CHIYU_CHIYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.235] [modloading-worker-0/WARN] [mixin/]: @Final field NIKYU_NIKYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.235] [modloading-worker-0/WARN] [mixin/]: @Final field SUNA_SUNA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.235] [modloading-worker-0/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_PTERANODON:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.236] [modloading-worker-0/WARN] [mixin/]: @Final field MINI_MINI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.238] [modloading-worker-0/WARN] [mixin/]: @Final field OTO_OTO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.238] [modloading-worker-0/WARN] [mixin/]: @Final field SARA_SARA_NO_MI_AXOLOTL:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.238] [modloading-worker-0/WARN] [mixin/]: @Final field OPE_OPE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.239] [modloading-worker-0/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_BRACHIOSAURUS:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[27Sep2025 15:58:53.240] [modloading-worker-0/WARN] [mixin/]: @Final field GOMU_GOMU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in hito_hito_no_mi_nika.mixin.json:ModAbilitiesMixin should be final
+[27Sep2025 15:58:53.251] [modloading-worker-1/INFO] [TerraForged/]: Initializing tags
+[27Sep2025 15:58:53.882] [modloading-worker-2/INFO] [zazaaddon/]: ZaZaAddon constructed
+[27Sep2025 15:58:55.239] [modloading-worker-1/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon constructed
+[27Sep2025 15:58:55.252] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[27Sep2025 15:58:55.255] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[27Sep2025 15:58:55.330] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
+[27Sep2025 15:58:57.176] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
+[27Sep2025 15:58:57.186] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
+[27Sep2025 15:58:57.188] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
+[27Sep2025 15:58:57.189] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
+[27Sep2025 15:58:57.190] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
+[27Sep2025 15:58:57.191] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
+[27Sep2025 15:58:57.192] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
+[27Sep2025 15:58:57.193] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.change_character
+[27Sep2025 15:58:57.195] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
+[27Sep2025 15:58:57.196] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
+[27Sep2025 15:58:57.197] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
+[27Sep2025 15:58:57.200] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
+[27Sep2025 15:58:57.200] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
+[27Sep2025 15:58:57.200] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
+[27Sep2025 15:58:57.200] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
+[27Sep2025 15:58:57.200] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
+[27Sep2025 15:58:57.201] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
+[27Sep2025 15:58:57.201] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
+[27Sep2025 15:58:57.201] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
+[27Sep2025 15:58:57.202] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
+[27Sep2025 15:59:01.169] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering imu_trident enabled=true
+[27Sep2025 15:59:01.170] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering enmabb enabled=true
+[27Sep2025 15:59:01.173] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering shusuibb enabled=true
+[27Sep2025 15:59:01.174] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering amebb enabled=true
+[27Sep2025 15:59:01.174] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering acebb enabled=true
+[27Sep2025 15:59:01.175] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering gryphonbb enabled=true
+[27Sep2025 15:59:01.178] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering murabb enabled=true
+[27Sep2025 15:59:01.178] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering nidaibb enabled=true
+[27Sep2025 15:59:01.179] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering wadobb enabled=true
+[27Sep2025 15:59:01.179] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering syringered enabled=true
+[27Sep2025 15:59:01.180] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering syringegreen enabled=true
+[27Sep2025 15:59:01.180] [main/INFO] [zazaaddon/]: [ZaZaAddon] registering hakifistred enabled=true
+[27Sep2025 15:59:02.045] [main/INFO] [TerraForged/]: Registering level types
+[27Sep2025 15:59:03.963] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `bubbly_coral`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.963] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `animal_lookout`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.963] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `candle_lock`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.964] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `lovestruck`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.964] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `negative`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.964] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `chiyu_hormone`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.965] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `frostbite`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.965] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `frozen`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.965] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `tension_hormone`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.965] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ganmen_seicho_hormone`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.966] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `drunk`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.966] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ability_off`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.966] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `door_head`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.967] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `dizzy`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.967] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `movement_blocked`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.967] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `unconscious`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.967] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `washed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.968] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `sticky`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.968] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `black_box`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.968] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `guarding`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.968] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `physical_guarding`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.969] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `candy_stuck`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.969] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `paralysis`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.969] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `haki_overuse`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.969] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `smoke`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.970] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `reduced_fall`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.970] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `handcuffed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.971] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `handcuffed_kairoseki`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.971] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `handcuffed_explosive`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.971] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `bind`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.972] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `no_hands`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.972] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `fatigue`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.972] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `noro_slowness`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.974] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `guarding_with_movement`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.975] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `bleeding`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.975] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `hana`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.975] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `silent`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.975] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `saboten_boshi`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.975] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `oil_covered`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.976] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `dehydration`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.976] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `genocide_raid`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.976] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `doku_poison`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.977] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `punk_cross`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.977] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `vanish`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.977] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `suke_invisibility`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.977] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `doa_invisibility`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.977] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `seismic_bubble`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.978] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `in_event`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.978] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `antidote`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.978] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `hunger`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.978] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `mummy`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.978] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `mummy_antibody`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.979] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ice_oni`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.979] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `ice_oni_antibody`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.980] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `scaling_frostbite`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.980] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `custom_lighting`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.980] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `chiyupopo`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.980] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `tokudai_candle_poison`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.981] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `cyclone_tempo`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.981] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `heat_egg_tempo`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.981] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `kairoseki_weakness`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.982] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `water_weakness`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.982] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `play_dead`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.982] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `challenge_failed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.983] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `caught_in_net`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.985] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `caught_in_kairoseki_net`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.985] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `carrying`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.985] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `wet`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.986] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `swim_slowdown`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.986] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `grabbed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.986] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `anti_knockback`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.986] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `launched`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.986] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `fragile`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.987] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `impact_frame`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.987] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `zaza_unconscious`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.987] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `zaza_bleed`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.988] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `soul_damage`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.988] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `wifi_stun`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.988] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `negative_vitals`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:03.989] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `mineminenomi` for name `dead`, expected `zazaaddon`. This could be a intended override, but in most cases indicates a broken mod.
+[27Sep2025 15:59:04.166] [main/INFO] [TerraForged/]: Registering decorators
+[27Sep2025 15:59:04.182] [main/INFO] [TerraForged/]: Registering features
+[27Sep2025 15:59:04.971] [modloading-worker-0/INFO] [net.isaiah.zazaaddon.setup.ZaZaSetup/]: ZaZaAddon common setup complete
+[27Sep2025 15:59:05.107] [modloading-worker-0/INFO] [TerraForged/]: Common setup
+[27Sep2025 15:59:05.640] [modloading-worker-3/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon common setup complete
+[27Sep2025 15:59:05.703] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@26c84006' to registry
+[27Sep2025 15:59:05.706] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@2aafd790' to registry
+[27Sep2025 15:59:05.706] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@3d36204f' to registry
+[27Sep2025 15:59:05.707] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@1f81b020' to registry
+[27Sep2025 15:59:05.707] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@226346d4' to registry
+[27Sep2025 15:59:05.707] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@26c84006' to registry
+[27Sep2025 15:59:05.707] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@2aafd790' to registry
+[27Sep2025 15:59:05.707] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@3d36204f' to registry
+[27Sep2025 15:59:05.709] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@1f81b020' to registry
+[27Sep2025 15:59:05.710] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@226346d4' to registry
+[27Sep2025 15:59:05.710] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@26c84006' to registry
+[27Sep2025 15:59:05.710] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@2aafd790' to registry
+[27Sep2025 15:59:05.710] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@3d36204f' to registry
+[27Sep2025 15:59:05.710] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@1f81b020' to registry
+[27Sep2025 15:59:05.711] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@226346d4' to registry
+[27Sep2025 15:59:05.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[27Sep2025 15:59:06.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: v1.10 Target: v1.10.0.1
+[27Sep2025 15:59:06.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[27Sep2025 15:59:06.318] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=configured
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
@@ -221,47 +220,48 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
 	... 3 more
-[27Sep2025 15:26:26.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
-[27Sep2025 15:26:26.082] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[27Sep2025 15:59:06.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
+[27Sep2025 15:59:06.329] [main/INFO] [zazaaddon/]: ZaZaSetup: boss spawn placements registered (natural spawns remain disabled)
+[27Sep2025 15:59:06.340] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[27Sep2025 15:26:26.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Sep2025 15:26:26.179] [modloading-worker-3/INFO] [TerraForged/]: Loaded TerraForged version 0.2.16
-[27Sep2025 15:26:26.179] [modloading-worker-2/WARN] [minecolonies/]: FMLLoadCompleteEvent
-[27Sep2025 15:26:26.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[27Sep2025 15:26:26.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fruitcleaner] Starting version check at https://raw.githubusercontent.com/rathmerdominik/fruit-cleaner/main/updates.json
-[27Sep2025 15:26:26.237] [modloading-worker-2/WARN] [minecolonies/]: Register mappings
-[27Sep2025 15:26:26.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fruitcleaner] Found status: UP_TO_DATE Current: 1.0.0 Target: null
-[27Sep2025 15:26:26.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[27Sep2025 15:26:27.932] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[27Sep2025 15:59:06.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Sep2025 15:59:06.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[27Sep2025 15:59:06.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fruitcleaner] Starting version check at https://raw.githubusercontent.com/rathmerdominik/fruit-cleaner/main/updates.json
+[27Sep2025 15:59:06.535] [modloading-worker-3/INFO] [TerraForged/]: Loaded TerraForged version 0.2.16
+[27Sep2025 15:59:06.536] [modloading-worker-2/WARN] [minecolonies/]: FMLLoadCompleteEvent
+[27Sep2025 15:59:06.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fruitcleaner] Found status: UP_TO_DATE Current: 1.0.0 Target: null
+[27Sep2025 15:59:06.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[27Sep2025 15:59:06.578] [modloading-worker-2/WARN] [minecolonies/]: Register mappings
+[27Sep2025 15:59:07.834] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[27Sep2025 15:26:32.969] [main/INFO] [TerraForged/]: Creating TerraForged level settings
-[27Sep2025 15:26:33.182] [main/INFO] [TerraForged/]: Creating TerraForged chunk-generator from preset Default
-[27Sep2025 15:26:33.641] [main/INFO] [TerraForged/]: Loading strata base decorator
-[27Sep2025 15:26:33.683] [main/INFO] [TerraForged/]: Creating dimension: minecraft:overworld
-[27Sep2025 15:26:33.692] [main/INFO] [TerraForged/]: Creating dimension: minecraft:the_nether
-[27Sep2025 15:26:33.698] [main/INFO] [TerraForged/]: Creating dimension: minecraft:the_end
-[27Sep2025 15:26:33.747] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Sep2025 15:26:34.142] [main/INFO] [TerraForged/]: Adding DataPackFinder
-[27Sep2025 15:26:34.871] [main/INFO] [TerraForged/]: Registering /terra command
-[27Sep2025 15:26:34.892] [main/INFO] [zazaaddon/]: ZaZaAddon commands registered
-[27Sep2025 15:26:35.115] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[27Sep2025 15:26:35.146] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [structurize, scan, pos1, pos2, anchor_pos] and [structurize, scan, pos1, pos2, player] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[27Sep2025 15:26:35.157] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[27Sep2025 15:26:35.158] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Sep2025 15:26:35.163] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Sep2025 15:26:35.167] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[27Sep2025 15:26:35.169] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Sep2025 15:26:35.190] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, ZaysAccomodationsAddon-1.12Additions.jar, weaponmaster_ydm-forge-1.16.5-4.2.3.jar, fruit_progression-reloaded-1.2.0.jar, mowziesmobs-1.5.27.jar, AmbientSounds_v3.1.11_mc1.16.5.jar, mine-mine-no-mi-1.16.5-0.10.7.jar, TrashSlot_1.16.3-12.2.1.jar, player-animation-lib-forge-0.4.0+1.16.5.jar, CreativeCore_v2.2.1_mc1.16.5.jar, onepiece.jar, jei-1.16.5-7.8.0.1013.jar, TheEraOfPirates-0.0.5.5.jar, obscure_api-11.jar, curios-forge-1.16.5-4.1.0.0.jar, Waystones_1.16.5-7.6.4.jar, TerraForged-1.16.5-0.2.16.jar, citadel-1.8.1-1.16.5.jar, [1.16.5] SecurityCraft v1.10.jar, OnePieceModels-1.1.1.jar, Artifacts-1.16.5-2.10.6.jar, yokai-0.0.3.jar, configured-1.5.4-1.16.5.jar, structurize-1.16.5-1.0.418-ALPHA.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, cartaddon-0.7.11.jar, minecolonies-1.16.5-1.0.978-RELEASE.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, walljump-forge-1.16.4-1.3.7.jar, cloth-config-4.17.132-forge.jar, FallingTree-1.16.5-2.11.7.jar, Paraglider-1.16.5-1.3.2.14.jar, EoPAddon-0.3.jar, forge-1.16.5-36.2.42-universal.jar, expandability-2.0.1-forge.jar, tl_skin_cape_forge_1.16.1_1.16.5-1.37.jar, hito_hito_nika-0.12.0.jar, fruitcleaner-1.0.0(1).jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, geckolib-forge-1.16.5-3.0.106.jar, ironchest-1.16.5-11.2.21.jar, corpse-1.16.5-1.0.6.jar, aquamirae-5.4.API11.jar, hakibar-1.16.5-1.8.jar
-[27Sep2025 15:26:38.773] [Worker-Main-6/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag eraofpirates:sheathe_toggle_weapons as it is missing following references: minecraft:item.eopaddon.kashusheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.soulsolidsheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.kashusheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.wadoichinojisheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.raiusheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.yubarashisheathed (from EoPAddon-0.3.jar)
-[27Sep2025 15:26:38.867] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe onepiecemod:goathornrecipe
+[27Sep2025 15:59:14.536] [main/INFO] [TerraForged/]: Creating TerraForged level settings
+[27Sep2025 15:59:14.672] [main/INFO] [TerraForged/]: Creating TerraForged chunk-generator from preset Default
+[27Sep2025 15:59:15.117] [main/INFO] [TerraForged/]: Loading strata base decorator
+[27Sep2025 15:59:15.151] [main/INFO] [TerraForged/]: Creating dimension: minecraft:overworld
+[27Sep2025 15:59:15.156] [main/INFO] [TerraForged/]: Creating dimension: minecraft:the_nether
+[27Sep2025 15:59:15.161] [main/INFO] [TerraForged/]: Creating dimension: minecraft:the_end
+[27Sep2025 15:59:15.217] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Sep2025 15:59:15.543] [main/INFO] [TerraForged/]: Adding DataPackFinder
+[27Sep2025 15:59:16.083] [main/INFO] [TerraForged/]: Registering /terra command
+[27Sep2025 15:59:16.091] [main/INFO] [zazaaddon/]: ZaZaAddon commands registered
+[27Sep2025 15:59:16.222] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[27Sep2025 15:59:16.261] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [structurize, scan, pos1, pos2, anchor_pos] and [structurize, scan, pos1, pos2, player] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[27Sep2025 15:59:16.269] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[27Sep2025 15:59:16.279] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Sep2025 15:59:16.281] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Sep2025 15:59:16.288] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[27Sep2025 15:59:16.290] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[27Sep2025 15:59:16.314] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, ZaysAccomodationsAddon-1.12Additions.jar, weaponmaster_ydm-forge-1.16.5-4.2.3.jar, fruit_progression-reloaded-1.2.0.jar, mowziesmobs-1.5.27.jar, AmbientSounds_v3.1.11_mc1.16.5.jar, mine-mine-no-mi-1.16.5-0.10.7.jar, TrashSlot_1.16.3-12.2.1.jar, player-animation-lib-forge-0.4.0+1.16.5.jar, CreativeCore_v2.2.1_mc1.16.5.jar, onepiece.jar, jei-1.16.5-7.8.0.1013.jar, TheEraOfPirates-0.0.5.5.jar, obscure_api-11.jar, curios-forge-1.16.5-4.1.0.0.jar, Waystones_1.16.5-7.6.4.jar, TerraForged-1.16.5-0.2.16.jar, citadel-1.8.1-1.16.5.jar, [1.16.5] SecurityCraft v1.10.jar, OnePieceModels-1.1.1.jar, Artifacts-1.16.5-2.10.6.jar, yokai-0.0.3.jar, configured-1.5.4-1.16.5.jar, structurize-1.16.5-1.0.418-ALPHA.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, cartaddon-0.7.11.jar, minecolonies-1.16.5-1.0.978-RELEASE.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, walljump-forge-1.16.4-1.3.7.jar, cloth-config-4.17.132-forge.jar, FallingTree-1.16.5-2.11.7.jar, Paraglider-1.16.5-1.3.2.14.jar, EoPAddon-0.3.jar, forge-1.16.5-36.2.42-universal.jar, expandability-2.0.1-forge.jar, tl_skin_cape_forge_1.16.1_1.16.5-1.37.jar, hito_hito_nika-0.12.0.jar, fruitcleaner-1.0.0(1).jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, geckolib-forge-1.16.5-3.0.106.jar, ironchest-1.16.5-11.2.21.jar, corpse-1.16.5-1.0.6.jar, aquamirae-5.4.API11.jar, hakibar-1.16.5-1.8.jar
+[27Sep2025 15:59:19.605] [Worker-Main-4/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag eraofpirates:sheathe_toggle_weapons as it is missing following references: minecraft:item.eopaddon.kashusheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.soulsolidsheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.kashusheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.wadoichinojisheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.raiusheathed (from EoPAddon-0.3.jar),minecraft:item.eopaddon.yubarashisheathed (from EoPAddon-0.3.jar)
+[27Sep2025 15:59:19.680] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe onepiecemod:goathornrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'onepiecemod:deleted_mod_element'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -307,7 +307,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'onepiecemod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[27Sep2025 15:26:39.028] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe onepiecemod:oni_mask_recipe
+[27Sep2025 15:59:19.832] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe onepiecemod:oni_mask_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'onepiecemod:deleted_mod_element'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -358,7 +358,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'onepiecemod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[27Sep2025 15:26:39.123] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe cartaddon:zoro_robe
+[27Sep2025 15:59:19.919] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe cartaddon:zoro_robe
 com.google.gson.JsonSyntaxException: Unknown item 'cartaddon:zoro_robe'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -404,400 +404,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'cartaddon:zoro_robe'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[27Sep2025 15:26:39.132] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 10 recipes
-[27Sep2025 15:26:41.800] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6043 advancements
-[27Sep2025 15:26:41.805] [Worker-Main-6/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Started Deserialization of abilities data
-[27Sep2025 15:26:41.807] [Worker-Main-6/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Ended Deserialization of abilities data
-[27Sep2025 15:26:41.807] [Worker-Main-6/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Started Deserialization of awakenings data
-[27Sep2025 15:26:41.807] [Worker-Main-6/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Ended Deserialization of awakenings data
-[27Sep2025 15:26:41.814] [Worker-Main-6/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
-[27Sep2025 15:26:41.853] [Worker-Main-6/INFO] [minecolonies/]: Loaded 471 recipes for 16 crafters
-[27Sep2025 15:26:41.854] [Worker-Main-6/INFO] [minecolonies/]: Beginning load of research for University.
-[27Sep2025 15:26:41.873] [Worker-Main-6/INFO] [minecolonies/]: Loaded 190 recipes for 4 research branches
-[27Sep2025 15:26:46.228] [main/INFO] [TerraForged/]: Tags Reloaded
-[27Sep2025 15:26:46.228] [main/INFO] [TerraForged/]: Tags Reloaded
-[27Sep2025 15:26:46.830] [main/INFO] [TerraForged/]: Loading strata base decorator
-[27Sep2025 15:26:51.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[27Sep2025 15:26:52.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Sep2025 15:26:52.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Sep2025 15:26:52.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Sep2025 15:26:52.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Sep2025 15:26:52.336] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[27Sep2025 15:26:52.511] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[27Sep2025 15:26:52.511] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[27Sep2025 15:26:52.512] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[27Sep2025 15:26:52.512] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[27Sep2025 15:26:52.608] [Thread-0/WARN] [minecolonies.requestsystem/]: Updated logging config. RS Debug logging enabled: false
-[27Sep2025 15:26:52.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Sep2025 15:26:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Sep2025 15:26:57.031] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.032] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.032] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.032] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.033] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.033] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.033] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.389] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Sep2025 15:26:57.583] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.671] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.700] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.740] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.799] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.801] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.874] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.940] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
-java.lang.NullPointerException: null
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
-	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
-	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
-	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
-	at java.util.Optional.map(Optional.java:265) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
-	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
-	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222648_b(ChunkSerializer.java:133) ~[?:?]
-	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
-	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
-	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213186_a(MinecraftServer.java:469) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:310) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:621) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:26:57.955] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4137 ms
-[27Sep2025 15:26:57.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.411s)! For help, type "help"
-[27Sep2025 15:26:58.080] [Server thread/INFO] [structurize/]: Trying jar discover: assets/structurize
-[27Sep2025 15:26:58.084] [Server thread/INFO] [structurize/]: Trying jar discover: assets/minecolonies
-[27Sep2025 15:27:00.078] [Server thread/INFO] [structurize/]: Load additional huts or decorations from ./structurize/schematics
-[27Sep2025 15:27:00.078] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
-[27Sep2025 15:27:00.079] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
-[27Sep2025 15:27:00.087] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[27Sep2025 15:27:00.087] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[27Sep2025 15:27:00.154] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 6
-[27Sep2025 15:27:00.155] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 14 14
-[27Sep2025 15:27:00.156] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
-[27Sep2025 15:27:00.166] [Server thread/INFO] [minecolonies/]: Finished discovering food 176 192
-[27Sep2025 15:27:00.178] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 202
-[27Sep2025 15:27:00.180] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 275
-[27Sep2025 15:27:00.181] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 127
-[27Sep2025 15:27:00.181] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
-[27Sep2025 15:27:00.182] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
-[27Sep2025 15:27:00.268] [Server thread/INFO] [fruitcleaner/]: Fruit Cleaner Started!
-[27Sep2025 15:27:17.230] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@209414d0
-[27Sep2025 15:27:17.265] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilxdk1[/127.251.208.206:59763] logged in with entity id 242 at (3298.3845066117074, 87.0, -4255.724075698329)
-[27Sep2025 15:27:17.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 joined the game
-[27Sep2025 15:27:17.487] [Server thread/INFO] [structurize/]: New Server UUID 33fc3181-1817-4de2-83cc-45ed52b254c3
-[27Sep2025 15:27:19.224] [Worker-Main-6/INFO] [TerraForged/]:  - Erosion decorator enabled
-[27Sep2025 15:27:19.226] [Worker-Main-6/INFO] [TerraForged/]:  - Natural snow decorator enabled
-[27Sep2025 15:27:19.272] [Worker-Main-6/INFO] [TerraForged/]:  - Smooth layer decorator enabled
-[27Sep2025 15:27:19.277] [Worker-Main-6/WARN] [net.minecraft.resources.ResourcePackInfo/]: Couldn't get pack info for: net.minecraft.resources.ResourcePackFileNotFoundException: 'pack.mcmeta' in ResourcePack '/workspaces/Server.onepiece02/servidor_minecraft/libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar'
-[27Sep2025 15:27:20.223] [Worker-Main-6/INFO] [TerraForged/]:  - Vanilla lakes disabled
-[27Sep2025 15:27:20.223] [Worker-Main-6/INFO] [TerraForged/]:  - Vanilla lava lakes enabled
-[27Sep2025 15:27:20.223] [Worker-Main-6/INFO] [TerraForged/]:  - Vanilla water springs enabled
-[27Sep2025 15:27:20.223] [Worker-Main-6/INFO] [TerraForged/]:  - Vanilla lava springs enabled
-[27Sep2025 15:27:20.224] [Worker-Main-6/INFO] [TerraForged/]:  - Custom features enabled
-[27Sep2025 15:27:20.777] [Worker-Main-6/INFO] [TerraForged/]: Create Tile Cache...
-[27Sep2025 15:27:20.778] [Worker-Main-6/INFO] [TerraForged/]: System Defaults:
-[27Sep2025 15:27:20.779] [Worker-Main-6/INFO] [TerraForged/]:  Thread Count:  4
-[27Sep2025 15:27:20.779] [Worker-Main-6/INFO] [TerraForged/]:  Tile Size:     3
-[27Sep2025 15:27:20.779] [Worker-Main-6/INFO] [TerraForged/]:  Batch Size:    5
-[27Sep2025 15:29:48.290] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/38, l='ServerLevel[world]', x=3306.94, y=67.59, z=-4366.02] died, message: 'Villager was slain by Zombie'
-[27Sep2025 15:29:53.644] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/37, l='ServerLevel[world]', x=3305.80, y=68.50, z=-4366.50] died, message: 'Villager was slain by Zombie'
-[27Sep2025 15:32:49.423] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+[27Sep2025 15:59:19.938] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 10 recipes
+[27Sep2025 15:59:22.628] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6043 advancements
+[27Sep2025 15:59:22.636] [Worker-Main-4/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Started Deserialization of abilities data
+[27Sep2025 15:59:22.638] [Worker-Main-4/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Ended Deserialization of abilities data
+[27Sep2025 15:59:22.639] [Worker-Main-4/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Started Deserialization of awakenings data
+[27Sep2025 15:59:22.639] [Worker-Main-4/INFO] [net.warcar.fruit_progression.DevilFruitProgressionMod/]: Ended Deserialization of awakenings data
+[27Sep2025 15:59:22.653] [Worker-Main-4/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[27Sep2025 15:59:22.702] [Worker-Main-4/INFO] [minecolonies/]: Loaded 471 recipes for 16 crafters
+[27Sep2025 15:59:22.703] [Worker-Main-4/INFO] [minecolonies/]: Beginning load of research for University.
+[27Sep2025 15:59:22.728] [Worker-Main-4/INFO] [minecolonies/]: Loaded 190 recipes for 4 research branches
+[27Sep2025 15:59:27.139] [main/INFO] [TerraForged/]: Tags Reloaded
+[27Sep2025 15:59:27.142] [main/INFO] [TerraForged/]: Tags Reloaded
+[27Sep2025 15:59:27.692] [main/INFO] [TerraForged/]: Loading strata base decorator
+[27Sep2025 15:59:33.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[27Sep2025 15:59:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Sep2025 15:59:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Sep2025 15:59:33.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Sep2025 15:59:33.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Sep2025 15:59:33.858] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[27Sep2025 15:59:34.059] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Sep2025 15:59:34.060] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Sep2025 15:59:34.061] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Sep2025 15:59:34.061] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Sep2025 15:59:34.165] [Thread-0/WARN] [minecolonies.requestsystem/]: Updated logging config. RS Debug logging enabled: false
+[27Sep2025 15:59:34.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Sep2025 15:59:35.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Sep2025 15:59:36.416] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[27Sep2025 15:59:36.417] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[27Sep2025 15:59:36.417] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[27Sep2025 15:59:36.575] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[27Sep2025 15:59:37.053] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2050 ms
+[27Sep2025 15:59:37.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.956s)! For help, type "help"
+[27Sep2025 15:59:37.154] [Server thread/INFO] [structurize/]: Trying jar discover: assets/structurize
+[27Sep2025 15:59:37.158] [Server thread/INFO] [structurize/]: Trying jar discover: assets/minecolonies
+[27Sep2025 15:59:39.051] [Server thread/INFO] [structurize/]: Load additional huts or decorations from ./structurize/schematics
+[27Sep2025 15:59:39.052] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
+[27Sep2025 15:59:39.052] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
+[27Sep2025 15:59:39.060] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[27Sep2025 15:59:39.061] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[27Sep2025 15:59:39.119] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 6
+[27Sep2025 15:59:39.119] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 14 14
+[27Sep2025 15:59:39.120] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[27Sep2025 15:59:39.126] [Server thread/INFO] [minecolonies/]: Finished discovering food 176 192
+[27Sep2025 15:59:39.137] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 202
+[27Sep2025 15:59:39.139] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 275
+[27Sep2025 15:59:39.139] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 127
+[27Sep2025 15:59:39.139] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[27Sep2025 15:59:39.140] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[27Sep2025 15:59:39.214] [Server thread/INFO] [fruitcleaner/]: Fruit Cleaner Started!
+[27Sep2025 15:59:58.986] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@13f3cc32
+[27Sep2025 15:59:59.028] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilxdk1[/127.251.208.206:36445] logged in with entity id 195 at (2794.8128360942997, 45.0, -4271.29503602561)
+[27Sep2025 15:59:59.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 joined the game
+[27Sep2025 15:59:59.239] [Server thread/INFO] [structurize/]: New Server UUID e49417ef-d003-4376-869d-101723d6e7c2
+[27Sep2025 15:59:59.528] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilxdk1 lost connection: Disconnected
+[27Sep2025 15:59:59.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 left the game
+[27Sep2025 16:00:08.887] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1aeedda6
+[27Sep2025 16:00:08.906] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilxdk1[/127.251.208.206:50863] logged in with entity id 219 at (2794.8128360942997, 45.0, -4271.29503602561)
+[27Sep2025 16:00:08.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 joined the game
+[27Sep2025 16:00:10.794] [Server thread/INFO] [TerraForged/]: Create Tile Cache...
+[27Sep2025 16:00:10.794] [Server thread/INFO] [TerraForged/]: System Defaults:
+[27Sep2025 16:00:10.795] [Server thread/INFO] [TerraForged/]:  Thread Count:  4
+[27Sep2025 16:00:10.795] [Server thread/INFO] [TerraForged/]:  Tile Size:     3
+[27Sep2025 16:00:10.795] [Server thread/INFO] [TerraForged/]:  Batch Size:    5
+[27Sep2025 16:00:11.306] [Worker-Main-4/INFO] [TerraForged/]:  - Erosion decorator enabled
+[27Sep2025 16:00:11.308] [Worker-Main-4/INFO] [TerraForged/]:  - Natural snow decorator enabled
+[27Sep2025 16:00:11.310] [Worker-Main-4/INFO] [TerraForged/]:  - Smooth layer decorator enabled
+[27Sep2025 16:00:11.313] [Worker-Main-4/WARN] [net.minecraft.resources.ResourcePackInfo/]: Couldn't get pack info for: net.minecraft.resources.ResourcePackFileNotFoundException: 'pack.mcmeta' in ResourcePack '/workspaces/Server.onepiece02/servidor_minecraft/libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar'
+[27Sep2025 16:00:12.168] [Worker-Main-4/INFO] [TerraForged/]:  - Vanilla lakes disabled
+[27Sep2025 16:00:12.169] [Worker-Main-4/INFO] [TerraForged/]:  - Vanilla lava lakes enabled
+[27Sep2025 16:00:12.169] [Worker-Main-4/INFO] [TerraForged/]:  - Vanilla water springs enabled
+[27Sep2025 16:00:12.169] [Worker-Main-4/INFO] [TerraForged/]:  - Vanilla lava springs enabled
+[27Sep2025 16:00:12.169] [Worker-Main-4/INFO] [TerraForged/]:  - Custom features enabled
+[27Sep2025 16:01:08.376] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
 java.lang.NullPointerException: null
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
@@ -821,7 +500,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:33:49.422] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+[27Sep2025 16:02:48.371] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
 java.lang.NullPointerException: null
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
@@ -845,7 +524,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:34:09.422] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+[27Sep2025 16:02:48.374] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
 java.lang.NullPointerException: null
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
@@ -869,20 +548,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:43:31.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
-[27Sep2025 15:43:43.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by Marine Brute
-[27Sep2025 15:44:01.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
-[27Sep2025 15:44:08.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was slain by Marine Grunt
-[27Sep2025 15:47:00.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] X=3227 Z=-4225 (~+5 ~+79 N)
-[27Sep2025 15:47:00.956] [Server thread/INFO] [zazaaddon/]: BossRotationSpawner: spawned at BlockPos{x=3227, y=67, z=-4225} (interval 20 min, expires at 153416)
-[27Sep2025 15:47:00.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] A chilling presence emerges... Blackbeard has appeared!
-[27Sep2025 15:47:11.405] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=3177, y=71, z=-4295}
-[27Sep2025 15:47:11.408] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilxdk1 moved wrongly!
-[27Sep2025 15:47:17.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
-[27Sep2025 15:47:47.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 got killed by gravity
-[27Sep2025 15:51:08.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Chest Slayer]
-[27Sep2025 15:51:10.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Amateur Archaeologist]
-[27Sep2025 15:53:49.423] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+[27Sep2025 16:03:08.370] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
 java.lang.NullPointerException: null
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
@@ -906,16 +572,8 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:54:18.899] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2814, y=26, z=-3975} but found not block entity block Block{minecraft:granite} at location
-[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2814, y=26, z=-3975}
-[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2812, y=18, z=-3979} but found not block entity block Block{minecraft:stone} at location
-[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2812, y=18, z=-3979}
-[27Sep2025 15:54:18.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2822, y=26, z=-3983} but found not block entity block Block{minecraft:andesite} at location
-[27Sep2025 15:54:18.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=2822, y=26, z=-3983}
-[27Sep2025 15:54:19.043] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2796, y=21, z=-3980} but found not block entity block Block{minecraft:granite} at location
-[27Sep2025 15:54:19.043] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2796, y=21, z=-3980}
-[27Sep2025 15:54:41.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Suit Up]
-[27Sep2025 15:55:09.422] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+[27Sep2025 16:04:42.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3500ms or 70 ticks behind
+[27Sep2025 16:05:11.869] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
 java.lang.NullPointerException: null
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
 	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
@@ -939,4 +597,53 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[27Sep2025 15:55:10.279] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/5930, l='ServerLevel[world]', x=2657.62, y=67.00, z=-4038.62] died, message: 'Scribe was slain by Pirate Grunt'
+[27Sep2025 16:06:11.869] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 16:06:11.871] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 16:06:34.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 16:07:02.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
