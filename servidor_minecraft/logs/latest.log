@@ -873,3 +873,70 @@ java.lang.NullPointerException: null
 [27Sep2025 15:43:43.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was killed by Marine Brute
 [27Sep2025 15:44:01.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
 [27Sep2025 15:44:08.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 was slain by Marine Grunt
+[27Sep2025 15:47:00.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] X=3227 Z=-4225 (~+5 ~+79 N)
+[27Sep2025 15:47:00.956] [Server thread/INFO] [zazaaddon/]: BossRotationSpawner: spawned at BlockPos{x=3227, y=67, z=-4225} (interval 20 min, expires at 153416)
+[27Sep2025 15:47:00.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] A chilling presence emerges... Blackbeard has appeared!
+[27Sep2025 15:47:11.405] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=3177, y=71, z=-4295}
+[27Sep2025 15:47:11.408] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilxdk1 moved wrongly!
+[27Sep2025 15:47:17.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 15:47:47.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 got killed by gravity
+[27Sep2025 15:51:08.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Chest Slayer]
+[27Sep2025 15:51:10.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Amateur Archaeologist]
+[27Sep2025 15:53:49.423] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 15:54:18.899] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2814, y=26, z=-3975} but found not block entity block Block{minecraft:granite} at location
+[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2814, y=26, z=-3975}
+[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2812, y=18, z=-3979} but found not block entity block Block{minecraft:stone} at location
+[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2812, y=18, z=-3979}
+[27Sep2025 15:54:18.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2822, y=26, z=-3983} but found not block entity block Block{minecraft:andesite} at location
+[27Sep2025 15:54:18.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=2822, y=26, z=-3983}
+[27Sep2025 15:54:19.043] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2796, y=21, z=-3980} but found not block entity block Block{minecraft:granite} at location
+[27Sep2025 15:54:19.043] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2796, y=21, z=-3980}
+[27Sep2025 15:54:41.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Suit Up]
+[27Sep2025 15:55:09.422] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 15:55:10.279] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/5930, l='ServerLevel[world]', x=2657.62, y=67.00, z=-4038.62] died, message: 'Scribe was slain by Pirate Grunt'

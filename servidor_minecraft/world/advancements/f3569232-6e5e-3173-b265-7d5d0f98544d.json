@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-27 15:51:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-09-26 01:56:40 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-09-26 01:55:49 +0000"
@@ -355,9 +367,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-27 15:51:21 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/misc/handcuffs": {
     "criteria": {
       "has_iron": "2025-09-27 14:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
     },
     "done": true
   },
@@ -376,6 +400,18 @@
   "mineminenomi:recipes/misc/bullet": {
     "criteria": {
       "has_iron_ingot": "2025-09-27 14:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-09-27 15:50:22 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-09-27 15:51:08 +0000"
     },
     "done": true
   },
@@ -418,6 +454,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-09-27 15:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-27 15:51:21 +0000"
     },
     "done": true
   },
@@ -577,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2025-09-27 14:58:42 +0000"
@@ -655,6 +703,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-09-27 15:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-09-26 02:01:38 +0000",
@@ -665,6 +719,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-09-26 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
     },
     "done": true
   },
@@ -698,6 +758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-09-27 14:58:42 +0000"
@@ -713,6 +779,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-09-26 01:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
     },
     "done": true
   },
@@ -755,6 +827,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-09-26 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
     },
     "done": true
   },
@@ -860,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-09-27 15:50:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-09-26 01:55:49 +0000"
@@ -896,6 +980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-09-26 01:56:40 +0000"
@@ -905,6 +995,18 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-09-27 14:58:42 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/sake_cup": {
+    "criteria": {
+      "has_clay": "2025-09-27 15:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-27 15:51:21 +0000"
     },
     "done": true
   },
@@ -992,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-09-27 15:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-09-27 14:59:50 +0000"
@@ -1040,6 +1148,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-09-27 15:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-27 15:02:30 +0000"
@@ -1049,6 +1163,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-26 01:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-27 15:50:27 +0000"
     },
     "done": true
   },
@@ -1151,6 +1271,18 @@
   "minecolonies:recipes/combat/chainmailchestplate": {
     "criteria": {
       "has_iron": "2025-09-27 14:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-09-27 15:51:18 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/vivre_card": {
+    "criteria": {
+      "has_paper": "2025-09-27 15:51:18 +0000"
     },
     "done": true
   },
@@ -1277,6 +1409,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-27 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-09-27 15:50:27 +0000"
     },
     "done": true
   },

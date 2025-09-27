@@ -3674,3 +3674,120 @@ java.lang.NullPointerException: null
 [27Sep2025 15:45:53.322] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
 [27Sep2025 15:45:55.423] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
 [27Sep2025 15:45:57.172] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:46:34.522] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:46:35.372] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:46:50.422] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:46:52.822] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:47:00.636] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Sep2025 15:47:00.655] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Sep2025 15:47:00.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] X=3227 Z=-4225 (~+5 ~+79 N)
+[27Sep2025 15:47:00.956] [Server thread/INFO] [zazaaddon/]: BossRotationSpawner: spawned at BlockPos{x=3227, y=67, z=-4225} (interval 20 min, expires at 153416)
+[27Sep2025 15:47:00.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] A chilling presence emerges... Blackbeard has appeared!
+[27Sep2025 15:47:01.159] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 3
+[27Sep2025 15:47:01.444] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 14
+[27Sep2025 15:47:01.653] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 25
+[27Sep2025 15:47:02.032] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 36
+[27Sep2025 15:47:02.588] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 47
+[27Sep2025 15:47:02.746] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Geppo at tick 50
+[27Sep2025 15:47:03.283] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Geppo at tick 61
+[27Sep2025 15:47:03.388] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Kami-E at tick 63
+[27Sep2025 15:47:03.831] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Geppo at tick 72
+[27Sep2025 15:47:04.383] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Geppo at tick 83
+[27Sep2025 15:47:04.933] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Geppo at tick 94
+[27Sep2025 15:47:05.482] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Geppo at tick 105
+[27Sep2025 15:47:08.630] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Kenbunshoku Haki: Future Sight at tick 168
+[27Sep2025 15:47:11.405] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=3177, y=71, z=-4295}
+[27Sep2025 15:47:11.408] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilxdk1 moved wrongly!
+[27Sep2025 15:47:11.441] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped ability.mineminenomi.dark_world at tick 211
+[27Sep2025 15:47:12.629] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 248
+[27Sep2025 15:47:13.178] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 259
+[27Sep2025 15:47:13.730] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Soru at tick 270
+[27Sep2025 15:47:13.730] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Kenbunshoku Haki: Future Sight at tick 270
+[27Sep2025 15:47:13.779] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Busoshoku Haki: Internal Destruction at tick 271
+[27Sep2025 15:47:13.779] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Busoshoku Haki: Imbuing at tick 271
+[27Sep2025 15:47:13.779] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marshall D. Teach stopped Busoshoku Haki: Full Body Hardening at tick 271
+[27Sep2025 15:47:17.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 is bleeding...
+[27Sep2025 15:47:47.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 got killed by gravity
+[27Sep2025 15:47:48.723] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:47:48.725] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:47:48.943] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:47:48.945] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:47:49.189] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:47:49.191] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:47:49.438] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:47:49.688] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:48:00.622] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Sea Cow's phase to: Ground Phase
+[27Sep2025 15:49:04.027] [Worker-Main-6/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[27Sep2025 15:49:04.027] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdbb2204$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Sep2025 15:49:04.027] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdbb2204$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Sep2025 15:49:04.028] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdbb2204$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[27Sep2025 15:51:08.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Chest Slayer]
+[27Sep2025 15:51:10.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Amateur Archaeologist]
+[27Sep2025 15:52:00.800] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Sep2025 15:52:00.825] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Sep2025 15:52:49.422] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[27Sep2025 15:53:49.423] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 15:54:18.899] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2814, y=26, z=-3975} but found not block entity block Block{minecraft:granite} at location
+[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2814, y=26, z=-3975}
+[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2812, y=18, z=-3979} but found not block entity block Block{minecraft:stone} at location
+[27Sep2025 15:54:18.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2812, y=18, z=-3979}
+[27Sep2025 15:54:18.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2822, y=26, z=-3983} but found not block entity block Block{minecraft:andesite} at location
+[27Sep2025 15:54:18.944] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=2822, y=26, z=-3983}
+[27Sep2025 15:54:19.043] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2796, y=21, z=-3980} but found not block entity block Block{minecraft:granite} at location
+[27Sep2025 15:54:19.043] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=2796, y=21, z=-3980}
+[27Sep2025 15:54:41.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilxdk1 has made the advancement [Suit Up]
+[27Sep2025 15:54:49.477] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2402
+[27Sep2025 15:54:51.427] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 2441
+[27Sep2025 15:54:54.427] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2501
+[27Sep2025 15:54:59.477] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2602
+[27Sep2025 15:55:09.422] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.7]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.7]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.11]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.11]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27Sep2025 15:55:10.279] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/5930, l='ServerLevel[world]', x=2657.62, y=67.00, z=-4038.62] died, message: 'Scribe was slain by Pirate Grunt'
+[27Sep2025 15:55:10.578] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2824
+[27Sep2025 15:55:10.578] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 2824
+[27Sep2025 15:55:13.628] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2885
